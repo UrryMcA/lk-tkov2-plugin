@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="cuba-global-7.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../cubaLibs/cuba-global-7.3-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../cubaLibs/cuba-gui-7.3-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../cubaLibs/cuba-shared-lib-7.3-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../cubaLibs/cuba-web-7.3-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../cubaLibs/cuba-web-widgets-7.3-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../cubaLibs/guava-16.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lk-tko-v2master/modules/core/build/libs/app-core-0.1-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lk-tko-v2master/modules/global/build/libs/app-global-0.1-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lk-tko-v2master/modules/web/build/libs/app-web-0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../cubaLibs/cuba-web-widgets-7.3-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lk-tko-v2master/modules/core/build/libs/app-core-0.1-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lk-tko-v2master/modules/web/build/libs/app-web-0.1-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
